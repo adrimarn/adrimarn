@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adrimarn
+- 👀 I’m interested in studying.
+- 🌱 I’m currently learning React, Laravel and NodeJS.
+- 💞️ I’m looking for an internship.
+- 📫 How to reach me: adrien.marion@epitech.eu
