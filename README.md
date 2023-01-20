@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrimarn
 - 👀 I’m interested in studying.
-- 🌱 I’m currently learning React, Laravel and NodeJS.
-- 💞️ I’m looking for an internship.
+- 🌱 I’m currently learning React, Node.js and GraphQL.
+- 💼 I work at Figue.io
 - 📫 How to reach me: adrien.marion@epitech.eu
