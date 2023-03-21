@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-I'm Adrien Marion, a Full Stack Developer from France. My skills include React, Node.js, GraphQL, and more. I'm consistently working to improve my programming abilities and create efficient solutions to real-world problems. 
+I'm Adrien Marion, a Full Stack Developer from France. My skills include React, Node.js, GraphQL, PHP and more. I'm consistently working to improve my programming abilities and create efficient solutions to real-world problems. 
 
 ### Skills
 
@@ -13,6 +13,7 @@ I'm Adrien Marion, a Full Stack Developer from France. My skills include React, 
   <img src="https://img.shields.io/badge/-GraphQL-pink?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### About me
@@ -24,6 +25,6 @@ I'm Adrien Marion, a Full Stack Developer from France. My skills include React, 
 ### Stats
 
 ![Adrien's Github stats](https://github-readme-stats.vercel.app/api?username=adrimarn&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimarn&layout=compact)
 
 Thank you for taking the time to view my profile, and I look forward to connecting with you! 
