@@ -1,3 +1,5 @@
+<img style="width:100%" src="https://github.com/adrimarn/adrimarn/blob/main/adrimarn_github-banner.png">
+
 # Adrien Marion - Full Stack Developer
 
 ### Hi there 👋 
