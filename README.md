@@ -10,13 +10,20 @@ I'm Adrien Marion, a Full Stack Developer from France. My skills include React, 
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-pink?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+  <img src="https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
   <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 </p>
 
 ### About me
@@ -27,7 +34,6 @@ I'm Adrien Marion, a Full Stack Developer from France. My skills include React, 
 
 ### Stats
 
-![Adrien's Github stats](https://github-readme-stats.vercel.app/api?username=adrimarn&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimarn&layout=compact)
 
 
