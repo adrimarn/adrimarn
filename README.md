@@ -29,17 +29,10 @@ I'm Adrien Marion, a Full Stack Developer from France. My skills include React, 
 
 ### About me
 
-* 🌍  I'm based in Strasbourg
+* 🌍  I'm based in Tokyo
 * 💼 I’m currently working at [Figue.io](https://www.figue.io/)
 * 🌱 I’m currently learning everything I can about React, Node.js and GraphQL.
 * ✉️  You can contact me at [contact@adrienmarion.fr](mailto:contact@adrienmarion.fr)
-
-
-### Stats
-
-
-<a href="http://www.github.com/adrimarn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adrimarn&stroke=ffffff&background=3241A2&ring=7A41C9&fire=A777D7&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 
 ### Tools
 
